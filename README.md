@@ -1,7 +1,7 @@
 # 3D-Pong
 by J.J. Grunwald
 
-Developed an innovative 3D Pong game for my final project in Programming Fundamentals II, demonstrating advanced skills in C# and 3D graphic programming. Initially inspired by isometric graphics, I envisioned a pong game with a pseudo-3D appearance. Encouraged by my instructor, I expanded the project's scope to create a fully immersive 3D experience, moving beyond mere isometric illusions.
+An innovative 3D Pong game I created for my final project in Programming Fundamentals II, demonstrating advanced skills in C# and 3D graphic programming. Initially inspired by isometric graphics, I envisioned a pong game with a pseudo-3D appearance. Encouraged by my instructor, I expanded the project's scope to create a fully immersive 3D experience, moving beyond mere isometric illusions.
 
 Key Features:
 
