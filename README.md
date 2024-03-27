@@ -1,6 +1,12 @@
 # 3D-Pong
 by J.J. Grunwald
 
-This is a 3D Pong game which I created for my final project in Programming Fundamentals II class. I completed an isometric perspective game for my final project in my first Programming Fundamentals class, and initially I had planned to create a pong game from an isometric perspective. My instructor was very supportive of my initial idea and had motivated me to attempt to create a fully 3D game, rather than simply creating the illusion of 3D with isometric graphics. I want to thank my instructor in Programming Fundamentals for his help with realizing this project.
+Developed an innovative 3D Pong game for my final project in Programming Fundamentals II, demonstrating advanced skills in C# and 3D graphic programming. Initially inspired by isometric graphics, I envisioned a pong game with a pseudo-3D appearance. Encouraged by my instructor, I expanded the project's scope to create a fully immersive 3D experience, moving beyond mere isometric illusions.
 
-The game was created in C## and uses mostly primitive graphics, and some minor art assets which I created (such as the title, icon file, keyboard layout graphics, etc.). The 3D works using a class named “Vector” which allows for the input of the X, Y and Z coordinates. A 3D perspective of these shapes is then calculated using a 3x3 Perspective Matrix consisting of 9 different matrices, which is also a separate class. The paddle, ball, and score are all also separate classes, and a final class titled “Referee” acts as the referee for the game.
+Key Features:
+
+      Engineered using C#, leveraging primitive graphics and custom-designed art assets including the game title, iconography, and keyboard layout guides.
+      Implemented a bespoke 'Vector' class for precise 3D coordinate management (X, Y, and Z axes), facilitating realistic object movements and interactions within the game environment.
+      Utilized a sophisticated 3x3 Perspective Matrix, constructed from nine distinct matrices, to render a dynamic 3D perspective, enhancing gameplay realism and depth.
+      Architectured the game with robust object-oriented principles, dividing game elements into distinct classes for the paddle, ball, score, and a 'Referee' class to oversee game rules and mechanics.
+      This project not only underscored my programming proficiency and ability to transform conceptual designs into functional gaming software but also reflected my capacity for creative problem-solving and adherence to object-oriented programming standards.
